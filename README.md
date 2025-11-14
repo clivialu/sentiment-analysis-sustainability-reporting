@@ -17,7 +17,7 @@ We examine whether the tone of corporate communication (positive, neutral, or ne
 The results show that firms expressing a more positive and forward-looking tone in their sustainability reports tend to demonstrate stronger future environmental performance.  
 These findings highlight the potential of linguistic analytics to provide early indicators of corporate environmental behavior.
 
-## Paper Highlights:
+## Paper Highlight:
 
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
